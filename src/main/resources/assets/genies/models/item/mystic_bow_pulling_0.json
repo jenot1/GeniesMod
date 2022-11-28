@@ -1,0 +1,6 @@
+{
+  "parent": "genies:item/mystic_bow",
+  "textures": {
+    "layer0": "genies:item/mystic_bow_pulling_0"
+  }
+}

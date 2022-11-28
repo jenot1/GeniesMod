@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "clicked=false": { "model": "genies:block/citrine_lamp_off" },
+    "clicked=true": { "model": "genies:block/citrine_lamp_on" }
+  }
+}

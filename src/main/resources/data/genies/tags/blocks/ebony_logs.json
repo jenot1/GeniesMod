@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "genies:ebony_log",
+    "genies:ebony_wood",
+    "genies:stripped_ebony_log",
+    "genies:stripped_ebony_wood"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "genies:citrine_ore",
+    "genies:citrine_block",
+    "genies:raw_citrine_block",
+    "genies:deepslate_citrine_ore",
+    "genies:endstone_citrine_ore",
+    "genies:netherrack_citrine_ore"
+  ]
+}

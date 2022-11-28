@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "genies:block/gem_cutting_station" },
+    "facing=east": { "model": "genies:block/gem_cutting_station", "y": 90 },
+    "facing=south": { "model": "genies:block/gem_cutting_station", "y": 180 },
+    "facing=west": { "model": "genies:block/gem_cutting_station", "y": 270 }
+  }
+}

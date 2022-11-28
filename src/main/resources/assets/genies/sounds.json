@@ -1,0 +1,46 @@
+{
+  "dowsing_rod_found_ore": {
+    "subtitle": "sounds.genies.dowsing_rod_found_ore",
+    "sounds": [
+      "genies:dowsing_rod_found_ore"
+    ]
+  },
+  "citrine_lamp_break": {
+    "subtitle": "genies.citrine_lamp_break",
+    "sounds": [
+      "genies:citrine_lamp_break"
+    ]
+  },
+  "citrine_lamp_step": {
+    "subtitle": "genies.citrine_lamp_step",
+    "sounds": [
+      "genies:citrine_lamp_step"
+    ]
+  },
+  "citrine_lamp_place": {
+    "subtitle": "genies.citrine_lamp_place",
+    "sounds": [
+      "genies:citrine_lamp_place"
+    ]
+  },
+  "citrine_lamp_hit": {
+    "subtitle": "genies.citrine_lamp_hit",
+    "sounds": [
+      "genies:citrine_lamp_hit"
+    ]
+  },
+  "citrine_lamp_fall": {
+    "subtitle": "genies.citrine_lamp_fall",
+    "sounds": [
+      "genies:citrine_lamp_fall"
+    ]
+  },
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "genies:bar_brawl",
+        "stream": true
+      }
+    ]
+  }
+}

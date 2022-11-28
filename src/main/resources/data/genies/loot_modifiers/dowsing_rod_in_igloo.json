@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/igloo_chest"
+    }
+  ],
+  "addition": "genies:dowsing_rod",
+  "type": "genies:dowsing_rod_in_igloo"
+}

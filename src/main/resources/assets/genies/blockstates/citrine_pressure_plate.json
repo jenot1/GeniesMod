@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "genies:block/citrine_pressure_plate" },
+    "powered=true": { "model": "genies:block/citrine_pressure_plate_down" }
+  }
+}

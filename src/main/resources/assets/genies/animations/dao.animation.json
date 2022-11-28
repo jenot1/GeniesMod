@@ -1,0 +1,91 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.dao.walk": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"head": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [0, 0, -10],
+						"0.75": [0, 0, 10],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"body": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [0, 0, -10],
+						"0.75": [0, 0, 10],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"left_arm": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [-20, 0, 0],
+						"0.75": [20, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [20, 0, 0],
+						"0.75": [-20, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"left_leg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [-32.5, 0, 0],
+						"0.75": [32.5, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				},
+				"right_leg": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.25": [32.5, 0, 0],
+						"0.75": [-32.5, 0, 0],
+						"1.0": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.dao.melee_attack": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"left_arm": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.3333": [-120, 20, 0],
+						"0.75": [0, 0, 0]
+					}
+				},
+				"right_arm": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.3333": [-120, -20, 0],
+						"0.75": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.dao.idle": {
+			"animation_length": 3.5833,
+			"bones": {
+				"left_arm": {
+					"rotation": ["math.cos(query.anim_time*100)", 0, "math.sin(query.anim_time*100)"]
+				},
+				"right_arm": {
+					"rotation": ["-math.cos(query.anim_time*100)", 0, "-math.sin(query.anim_time*100)"]
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

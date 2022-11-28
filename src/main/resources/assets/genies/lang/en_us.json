@@ -1,0 +1,92 @@
+{
+  "item.genies.citrine": "Citrine",
+  "item.genies.raw_citrine": "Raw Citrine",
+  "item.genies.dowsing_rod": "Dowsing Rod",
+  "item.genies.cucumber": "Cucumber",
+  "item.genies.coal_coke": "Coal Coke",
+  "item.genies.honey_bucket": "Honey Bucket",
+
+  "item.genies.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.genies.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "item.genies.magic_dust": "Magic Dust",
+  "item.genies.data_tablet": "Data Tablet",
+  "item.genies.mystic_bow": "Mystic Bow",
+
+  "item.minecraft.potion.effect.freeze_potion": "Freeze Potion",
+  "item.minecraft.splash_potion.effect.freeze_potion": "Splash Potion of Freeze",
+  "item.minecraft.lingering_potion.effect.freeze_potion": "Lingering Potion of Freeze",
+  "item.minecraft.tipped_arrow.effect.freeze_potion": "Freezing Tipped Arrow",
+
+  "item.genies.citrine_pickaxe": "Citrine Pickaxe",
+  "item.genies.citrine_axe": "Citrine Axe",
+  "item.genies.citrine_shovel": "Citrine Shovel",
+  "item.genies.citrine_hoe": "Citrine Hoe",
+  "item.genies.citrine_sword": "Citrine Sword",
+
+  "item.genies.citrine_staff": "Citrine Staff",
+
+  "item.genies.gem_cutter_tool": "Gem Cutting Tools",
+  
+  "item.genies.citrine_helmet": "Citrine Helmet",
+  "item.genies.citrine_chestplate": "Citrine Chestplate",
+  "item.genies.citrine_leggings": "Citrine Leggings",
+  "item.genies.citrine_boots": "Citrine Boots",
+
+  "item.genies.cucumber_seeds": "Cucumber Seeds",
+
+  "block.genies.citrine_block": "Citrine Block",
+  "block.genies.raw_citrine_block": "Raw Citrine Block",
+  "block.genies.citrine_ore": "Citrine Ore",
+  "block.genies.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.genies.endstone_citrine_ore": "Endstone Citrine Ore",
+  "block.genies.netherrack_citrine_ore": "Netherrack Citrine Ore",
+  "block.genies.speedy_block": "Speedy Block",
+
+  "block.genies.ebony_log": "Ebony Log",
+  "block.genies.ebony_planks": "Ebony Planks",
+  "block.genies.ebony_wood": "Ebony Wood",
+  "block.genies.stripped_ebony_log": "Stripped Ebony Log",
+  "block.genies.stripped_ebony_wood": "Stripped Ebony Wood",
+
+  "block.genies.ebony_sign": "Ebony Sign",
+
+  "block.genies.ebony_leaves": "Ebony Leaves",
+  "block.genies.ebony_sapling": "Ebony Sapling",
+
+  "block.genies.winter_window": "Winter Window",
+  "block.genies.citrine_lamp": "Citrine Lamp",
+
+  "block.genies.citrine_slab": "Citrine Slab",
+  "block.genies.citrine_stairs": "Citrine Stairs",
+  "block.genies.citrine_fence": "Citrine Fence",
+  "block.genies.citrine_wall": "Citrine Wall",
+  "block.genies.citrine_fence_gate": "Citrine Fence Gate",
+
+  "block.genies.citrine_button": "Citrine Button",
+  "block.genies.citrine_pressure_plate": "Citrine Pressure Plate",
+  "block.genies.ebony_door": "Ebony Door",
+  "block.genies.ebony_trapdoor": "Ebony Trapdoor",
+
+  "block.genies.gem_cutting_station": "Gem Cutting Station",
+
+  "block.genies.pink_rose": "Pink Rose",
+  "block.genies.potted_pink_rose": "Potted Pink Rose",
+
+  "block.genies.cucumber_plant": "Cucumber Plant",
+
+  "itemGroup.Genies": "Genies",
+
+  "item.genies.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.genies.dowsing_rod.tooltip.shift": "Right Click to Find Valuables!",
+  "tooltip.genies.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
+  "tooltip.genies.block.speedy_block": "I am speed",
+
+  "sounds.genies.dowsing_rod_found_ore": "Dowsing Rod Found Ore Sound",
+  "effect.genies.freeze": "Freeze",
+
+  "enchantment.genies.lightning_striker": "Lightning Striker",
+
+  "item.genies.ifrit_spawn_egg": "Ifrit Spawn Egg",
+  "item.genies.dao_spawn_egg": "Dao Spawn Egg"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "genies:block/deepslate_citrine_ore"
+  }
+}
